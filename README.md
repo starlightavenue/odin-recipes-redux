@@ -10,3 +10,5 @@ Upon completion of this project, I will have demonstrated specific HTML skills. 
 - creating ordered and unordered lists
 
 > I do not own any of the fictional characters mentioned. This is just for funsies :relieved:
+### Image Credits
+[Niou Masaharu][https://x.com/shintenianime/status/1112210410332147712]
