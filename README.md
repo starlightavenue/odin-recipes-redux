@@ -9,8 +9,9 @@ Upon completion of this project, I will have demonstrated specific HTML skills. 
 - inserting images in pages
 - creating ordered and unordered lists
 
-> I do not own any of the fictional characters mentioned. This is just for funsies :relieved:
-### Image Credits
-<br>[Niou Masaharu](https://x.com/shintenianime/status/1112210410332147712) - **Konomi Takeshi,** *published by Shueisha, NAS*
+### Credits
+[Niou Masaharu](https://x.com/shintenianime/status/1112210410332147712) - **Konomi Takeshi,** *published by Shueisha, NAS*
 <br>Luke Pearce - **Cognosphere Pte. Ltd.**, *sourced from in-game screenshot*
 <br>[Xavier Shen](https://x.com/Love_Deepspace/status/2005142757317411041/photo/2) - **Infold Games**
+
+<br>*I do not own any of these characters, this is just for funsies :relieved:*
