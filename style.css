@@ -26,6 +26,11 @@ img {
     text-align: center;
 }
 
+.intro {
+    padding-left:5%;
+    padding-right:5%;
+}
+
 /* id's*/
 .jp {
     font-family: 'M PLUS Rounded 1c', 'Nunito', sans-serif;
