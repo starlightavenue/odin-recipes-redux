@@ -21,7 +21,9 @@ img {
 }
 
 /*classes*/
-
+.center {
+    text-align: center;
+}
 
 /* id's*/
 .jp {
