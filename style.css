@@ -32,8 +32,14 @@ img {
     padding-right:5%;
 }
 
-/* id's*/
 .jp {
     font-family: 'M PLUS Rounded 1c', 'Nunito', sans-serif;
     font-weight: 800;
 }
+
+.link {
+    color:#f2ce3a;
+    text-decoration: none;
+}
+
+/* id's*/
